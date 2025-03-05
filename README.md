@@ -67,12 +67,7 @@ By tackling the issue of fraudulent emergency calls, **911 Call Sentinel** enhan
 ## Acknowledgements
 Project by:
 - **Dhwani Bhavankar**  
-- **Deeksha Mandal**
-- **Nitya Sharma**
-- **Nithish**
-- **Agni**  
-- **Chris Vinod**
-- **Lakshya Joshi**  
+- **Deeksha Mandal** 
 
 
 ---
